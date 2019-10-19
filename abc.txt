@@ -1,2 +1,4 @@
 Hi Git,	
 	This is an txt file created to learn github.
+	
+Now i am modifying this txt file.
